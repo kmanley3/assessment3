@@ -81,6 +81,7 @@ form {
 }
 .favBtn:hover {
 	background-color: darkgoldenrod;
+	box-shadow: 5px 5px 5px darkgray;
 }
 .check {
 	display: inline;
