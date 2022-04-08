@@ -38,9 +38,6 @@ input {
 
 img {
 	max-width: 300px;
-	display: flexbox;
-	margin: 10px;
-	justify-content: center
 }
 
 h2 {
