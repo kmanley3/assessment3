@@ -1,0 +1,88 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+  display: flexbox;
+  justify-content: center
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display:list-item;
+}
+
+img {
+	max-width: 300px;
+}
+
+h2 {
+	color: darkred
+
+}
+h3 {
+	color: maroon;
+	align-content: center
+}
+
+div {
+	background-color: darkgray;
+	padding: 15px;
+	border-radius: 15px;
+
+}
+
+form {
+	background-color: darkred;
+	color: lightgray;
+	padding: 15px;
+	border-radius: 15px;
+	box-shadow: 5px 5px 3px darkgray;
+	font-weight: bold;
+}
+.favBtn {
+	padding: 5px;
+	width: 150px;
+	height: 120px;
+	background-color: goldenrod;
+	border: 5px solid darkgoldenrod;
+	border-radius: 90px;
+	font-size: 25px;
+	color: lightgoldenrodyellow;
+	font-weight: bolder;
+}
+#friend {
+	display: inline;
+}
+#google {
+	display: inline;
+}
+#theDarkLord {
+	display: inline;
+}
+#other {
+	display: inline;
+}
